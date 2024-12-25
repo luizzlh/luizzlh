@@ -1,6 +1,6 @@
-## Hi there 👋
+# Olá!
 
-- 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+- #### 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 - 🧑‍💻 Sou Luiz Henrique, um apaixonado por tecnologia, esportes e inovação.
 - 🎓 Estudante de Engenharia de Software aos 20 anos.
 - ⚙️ Desenvolvedor Back-End com foco em Java.
